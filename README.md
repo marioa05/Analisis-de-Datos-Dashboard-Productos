@@ -1,6 +1,6 @@
 # Fruty Fresca -Store-Analisis de datos
 ## Objetivo del proyecto
-La empresa FrutyFresca quiere crear un informe de ventas anual para 2023. De este modo, el propietario desea instalar una nueva central de distribución de forma estrategica por cual desea saber donde sería el lugar ideal para colocarla.
+La empresa Fruty Fresca quiere crear un informe de ventas anual para 2023. De este modo, el propietario desea instalar una nueva central de distribución de forma estrategica por cual desea saber donde sería el lugar ideal para colocarla.
 
 ## Dataset usado
 - <a href="https://github.com/marioa05/Analisis-de-Datos-Dashboard-Productos/blob/f4cf568629b7d636ab49978145e86902bbea2efb/Tablas%2BAuxiliares.xlsx">Dataset</a>
@@ -28,4 +28,4 @@ La empresa FrutyFresca quiere crear un informe de ventas anual para 2023. De est
 - En comparación de los otros meses diciembre obtuvo la mayor cantidad de ventas por unidad.
 
 ## Conclusión:
-Para mejorar la rapidez de distribución  de mermeladas en la empresa Frty fresca, deben instalar una nueva central de distribución en la zona centro espeficicamente en Córdoba. Este grupo demográfico representa clave en la venta de los productos, ya que hay una gran demanda. El enfoque debe incluir campañas de marketing digital específicas y promociones personalizadas para captar su atención, al igual que incrementar el envío de producto a los clientes con mayor eficiencia.
+Para mejorar la rapidez de distribución  de mermeladas en la empresa Fruty Fresca, deben instalar una nueva central de distribución en la zona centro espeficicamente en Córdoba. Este grupo demográfico representa clave en la venta de los productos, ya que hay una gran demanda. El enfoque debe incluir campañas de marketing digital específicas y promociones personalizadas para captar su atención, al igual que incrementar el envío de producto a los clientes con mayor eficiencia.
