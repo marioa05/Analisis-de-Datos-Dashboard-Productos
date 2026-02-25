@@ -22,7 +22,7 @@ La empresa FrutyFresca quiere crear un informe de ventas anual para 2023. De est
 
 ## Dashboard
 
-![Captura](Captura de pantalla.png)
+![Captura](https://github.com/marioa05/Analisis-de-Datos-Dashboard-Productos/blob/ef6de0aa1ff2b41c253c40b208c81614cd45e707/Captura%20de%20pantalla.png)
 
 ## Información de dashboard
 - Las mujeres son más propensas a comprar productos que los hombres (~65 %).
