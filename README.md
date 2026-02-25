@@ -4,6 +4,8 @@ La empresa FrutyFresca quiere crear un informe de ventas anual para 2023. De est
 
 ## Dataset usado
 - <a href="https://github.com/marioa05/Analisis-de-Datos-Dashboard-Productos/blob/f4cf568629b7d636ab49978145e86902bbea2efb/Tablas%2BAuxiliares.xlsx">Dataset</a>
+- <a href="https://github.com/marioa05/Analisis-de-Datos-Dashboard-Productos/blob/8546d61890052dbddcfa51d17ec3826237e02757/Ventas.csv">Dataset2</a> 
+
 
 ## Preguntas (KPIs)
 -  ¿Dónde conviene instalar el centro de distribución?
