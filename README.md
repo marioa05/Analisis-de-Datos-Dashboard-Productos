@@ -3,7 +3,7 @@
 La empresa FrutyFresca quiere crear un informe de ventas anual para 2023. De este modo, el propietario desea instalar una nueva central de distribución de forma estrategica por cual desea saber donde sería el lugar ideal para colocarla.
 
 ## Dataset usado
-- <a href="https://github.com/ritikbh193/Data-Analysis-Dashboard/blob/main/Vrinda%20Data%20Analysis2.xlsx">Dataset</a>
+- <a href="https://github.com/marioa05/Analisis-de-Datos-Dashboard-Productos/blob/f4cf568629b7d636ab49978145e86902bbea2efb/Tablas%2BAuxiliares.xlsx">Dataset</a>
 
 ## Preguntas (KPIs)
 -  ¿Dónde conviene instalar el centro de distribución?
