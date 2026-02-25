@@ -11,7 +11,7 @@ La empresa FrutyFresca quiere crear un informe de ventas anual para 2023. De est
 -  ¿Dónde conviene instalar el centro de distribución?
 - ¿Cuál es el producto con mayor cantidad de unidades vendidas?
 - ¿En qué mes se produjo la mayor cantidad de ventas en unidades?
-- ¿Cuáles son los diferentes estados de los pedidos en 2022?
+- ¿Cuáles son los diferentes estados de los pedidos en 2023?
 
 ## Proceso
 - Verificar los datos en busca de valores faltantes y anomalías, y resolverlos.
